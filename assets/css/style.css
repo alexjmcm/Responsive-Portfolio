@@ -437,12 +437,12 @@ input[type=submit] {
   #logo,
   .work,
   .auth-image {
-    width: 100%;
+    width: 50%;
   }
 
   nav {
     /* Box-model */
-    width: 100%;
+    width: 50%;
 
     /* Positioning */
     margin: 15px 0;
